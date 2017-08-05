@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelGuide</string>
+    <string name="searchhint">Choose Your Destination</string>
+    <string name="splash_text">Travel Guide</string>
+    <string name="button_text">Search</string>
+    <string name="content_desc">pictures</string>
+    <string name="card_title">Title</string>
+    <string name="card_description">Description</string>
+</resources>
